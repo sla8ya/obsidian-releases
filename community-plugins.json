@@ -14481,6 +14481,14 @@
     "author": "zhanglei",
     "description": "将笔记同步到博客园",
     "repo": "lei-ctyh/obsidian-sync-cnblog"
-}
+},
+    {
+    "id": "progress-slider",
+    "name": "Progress Slider",
+    "author": "sla8ya",
+    "description": "Adds interactive sliders to Obsidian notes.",
+    "repo": "sla8ya/progress-slider",
+    "version": "1.0.0"
+    }
 ]
 
